@@ -5,4 +5,3 @@ The dashboard includes two powerful visualizations that enrich the user experien
 
 Additionally, the dashboard features a dynamic World Map representation, providing users with a visual overview of the total number of shows available in different countries. This geographical display enables users to explore content availability across the globe, gaining insights into regional preferences and the diversity of content offered by Amazon Prime Video.
 
-With its user-friendly design and a combination of interactive filters, the Radial chart, and the World Map visualization, the Amazon Prime Video Dashboard on Tableau offers a seamless and efficient way for users to discover, analyze, and engage with their favorite movies and TV shows. Whether it's making informed content choices or understanding the global reach of Amazon Prime Video, this dashboard serves as an indispensable analytics tool for both viewers and content creators alike.
